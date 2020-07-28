@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liva | 露西部落格</title>
-    <link>https://lucylailai.github.io/</link>
-    <description>Recent content on Liva | 露西部落格</description>
+    <title>blog on Liva | 露西部落格</title>
+    <link>https://lucylailai.github.io/blog/</link>
+    <description>Recent content in blog on Liva | 露西部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 12:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
     
-	<atom:link href="https://lucylailai.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lucylailai.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
