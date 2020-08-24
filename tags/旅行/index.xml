@@ -20,17 +20,5 @@
       <description>我是第二篇文章</description>
     </item>
     
-    <item>
-      <title>露西第一篇文章</title>
-      <link>https://lucylailai.github.io/blog/test/</link>
-      <pubDate>Tue, 28 Jul 2020 12:00:00 +0800</pubDate>
-      
-      <guid>https://lucylailai.github.io/blog/test/</guid>
-      <description>hello world
-我是露西
-一級標題 二級標題 六級標題 我是露西,喜歡觀察
- 阿露 分解茶   降火氣  解油膩     HELLO</description>
-    </item>
-    
   </channel>
 </rss>
