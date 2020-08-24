@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Liva | 露西部落格</title>
+    <link>https://lucylailai.github.io/blog/</link>
+    <description>Recent content in blog on Liva | 露西部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://lucylailai.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>說故事元素</title>
+      <link>https://lucylailai.github.io/blog/test/</link>
+      <pubDate>Mon, 24 Aug 2020 17:02:00 +0800</pubDate>
+      
+      <guid>https://lucylailai.github.io/blog/test/</guid>
+      <description>故事兩大元素:主角、事件 事件三要點:故事開頭、衝突、結尾 珍珠奶茶（英語譯名：Bubble tea, Pearl milk tea），簡稱珍奶，又稱粉圓奶茶（Tapioca (ball) tea）、波霸奶茶（Boba/Poba milk tea）、泡泡茶（Bubble Tea的直譯），是1980年代起源於臺灣的茶類飲料，為臺灣泡沫紅茶、粉圓茶飲文化中的分支，將粉圓（在此處又別稱珍珠、波霸）加入奶茶中，另有「珍珠紅（綠）茶」、「珍珠奶綠」等變種，由於口感特殊，所以受到廣大的歡迎與回響，也成為臺灣最具代表性的飲食之一，並從臺灣流行至周邊國家地區甚至世界各地。</description>
+    </item>
+    
+    <item>
+      <title>露西第二篇文章</title>
+      <link>https://lucylailai.github.io/blog/second-post/</link>
+      <pubDate>Tue, 28 Jul 2020 12:48:00 +0800</pubDate>
+      
+      <guid>https://lucylailai.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://lucylailai.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://lucylailai.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
