@@ -5,7 +5,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="第一堂課:尋找生活中故事素材">
+  <meta name="description" content="this is meta description">
   <meta name="author" content="露西">
   <meta name="generator" content="Hugo 0.68.3" />
 
@@ -91,36 +91,19 @@
 </header>
 <!-- /navigation -->
 
-<section class="section-sm">
+<section class="section">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-10 mx-auto">
-        
-        <a href="/categories/%e5%af%ab%e4%bd%9c"
-          class="text-primary">寫作</a>
-        
-        <h2>說故事元素</h2>
-        <div class="mb-3 post-meta">
-          <span>By 露西</span>
-          
-          <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>24 August 2020</span>
-          
-        </div>
-        
-        <img src="https://lucylailai.github.io/images/post/3Q.jpg" class="img-fluid w-100 mb-4" alt="說故事元素">
-        
-        <div class="content mb-5">
-          <h4 id="故事兩大元素主角事件">故事兩大元素:主角、事件</h4>
-<h5 id="事件三要點故事開頭衝突結尾">事件三要點:故事開頭、衝突、結尾</h5>
-<h6 id="手搖飲帶給我們的每天的清涼時刻忙碌工作環境氛圍帶給大家什麼期待回想起童年時光家人接送我們放學後有時買給我一杯慢慢感覺手搖飲如吸毒般滲入讓我們愈來愈成癮">手搖飲帶給我們的每天的清涼時刻,忙碌工作環境氛圍,帶給大家什麼期待,回想起童年時光,家人接送我們放學後,有時買給我一杯,慢慢感覺手搖飲如吸毒般滲入,讓我們愈來愈成癮。</h6>
-<h6 id="隨著時間拉長感覺到身體的負擔最直接家人給自己的評價變胖原因就是愛喝手搖飲回家之路總是兩旁琳琅滿目的店面各式各樣選擇一眼掃過人人手中都有一杯彷彿手搖飲帶給大家小確幸某天我感到荷包日益變少我站在十字路口在考慮要喝那一間剛好我包包放水瓶趕緊喝一口解癮">隨著時間拉長,感覺到身體的負擔,最直接家人給自己的評價,變胖原因就是愛喝手搖飲,回家之路總是兩旁琳琅滿目的店面,各式各樣選擇,一眼掃過人人手中都有一杯,彷彿手搖飲帶給大家小確幸,某天我感到荷包日益變少,我站在十字路口在考慮要喝那一間?剛好我包包放水瓶,趕緊喝一口解癮。</h6>
-<h6 id="ps有專家指出一杯500cc珍珠奶茶的熱量相當於一個普通排骨便當的熱量對於致力於減輕體重的人們不宜經常飲用">ps有專家指出，一杯500cc珍珠奶茶的熱量，相當於一個普通排骨便當的熱量，對於致力於減輕體重的人們，不宜經常飲用。</h6>
-
-        </div>
-
-        
-        
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div id="search-results"></div>
+        <script id="search-result-template" type="text/x-js-template">
+          <div class="py-4 border-bottom" id="summary-${key}">
+            <h4><a href="${link}">${title}</a></h4>
+            <p>${snippet}</p>
+            ${ isset tags }<p>Tags: ${tags}</p>${ end }
+            ${ isset categories }<p>Categories: ${categories}</p>${ end }
+          </div>
+        </script>
       </div>
     </div>
   </div>
