@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lucylailai.github.io/blog/3-post/</loc>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucylailai.github.io/categories/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/tags/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/tags/%E5%AF%AB%E4%BD%9C/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/categories/%E5%AF%AB%E4%BD%9C/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/tags/%E6%95%85%E4%BA%8B/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lucylailai.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2020-08-24T17:02:00+08:00</lastmod>
+    <lastmod>2020-08-24T19:02:00+08:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +54,11 @@
   
   <url>
     <loc>https://lucylailai.github.io/categories/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2020-07-28T12:48:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucylailai.github.io/tags/%E6%97%A5%E6%9C%AC/</loc>
     <lastmod>2020-07-28T12:48:00+08:00</lastmod>
   </url>
   
